@@ -1,5 +1,5 @@
 # About Julo's Design System
-This is the repo for Julo's Design System. It's written with some ReactJS scripts and served by StoryBook (see the docs : [Link](https://storybook.js.org/docs/react/get-started/setup)
+This is the repo for Julo's Design System. It's written with some ReactJS scripts and TailwindCSS
 
 ## Building for source
 Install app
@@ -9,15 +9,15 @@ npm install
 ```
 Runing at localhost
 ```sh
-npm run storybook
+npm start
 ```
 or
 ```sh
-yarn storybook
+yarn start
 ```
 Verify the deployment by navigating to your server address in
 your preferred browser.
 
 ```sh
-127.0.0.1:6006
+127.0.0.1:3000
 ```
